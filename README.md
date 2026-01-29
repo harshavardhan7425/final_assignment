@@ -100,12 +100,3 @@ A regression plot is displayed to visually assess the model fit.
 
 ## How to Run
 Ensure `data.csv` is in the same directory as the script.
-
-```bash
-python final_project.py
-
----
-
-This README is **clean, academic, and submission-ready**, sir.  
-If you later want a **research-style**, **IIT-format**, or **report-aligned** version, the structure can be upgraded without changing the content logic.
-::contentReference[oaicite:0]{index=0}
